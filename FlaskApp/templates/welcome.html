@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Welcome Page</title>
+</head>
+
+<body>
+{% block body %}
+    <h2>Welcome {{name}}</h2>
+ <!-- this section can be replaced by a child document -->
+
+<p>signed in as {{email}}</p>
+<p>{{utc_dt}}</p>
+
+
+
+{% endblock %}

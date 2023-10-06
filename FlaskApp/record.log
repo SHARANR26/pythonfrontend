@@ -1,0 +1,36 @@
+2023-09-28 13:43:25,894 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\chandrashekart\\Desktop\\PythonTraining\\FlaskApp\\flask_log.py', reloading
+2023-09-28 13:43:25,928 INFO werkzeug MainThread :  * Restarting with stat
+2023-09-28 13:43:26,248 WARNING werkzeug MainThread :  * Debugger is active!
+2023-09-28 13:43:26,250 INFO werkzeug MainThread :  * Debugger PIN: 132-606-593
+2023-09-28 14:19:26,942 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\chandrashekart\\Desktop\\PythonTraining\\FlaskApp\\flask_alchemy.py', reloading
+2023-09-28 14:19:26,998 INFO werkzeug MainThread :  * Restarting with stat
+2023-09-28 14:19:28,144 WARNING werkzeug MainThread :  * Debugger is active!
+2023-09-28 14:19:28,147 INFO werkzeug MainThread :  * Debugger PIN: 132-606-593
+2023-09-28 14:22:11,914 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\chandrashekart\\Desktop\\PythonTraining\\FlaskApp\\flask_alchemy.py', reloading
+2023-09-28 14:22:11,948 INFO werkzeug MainThread :  * Restarting with stat
+2023-09-28 14:22:12,280 WARNING werkzeug MainThread :  * Debugger is active!
+2023-09-28 14:22:12,282 INFO werkzeug MainThread :  * Debugger PIN: 132-606-593
+2023-09-28 14:51:21,428 INFO flask_log Thread-2 (process_request_thread) : Info level log
+2023-09-28 14:51:21,428 WARNING flask_log Thread-2 (process_request_thread) : Warning level log
+2023-09-28 14:51:21,429 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [28/Sep/2023 14:51:21] "GET / HTTP/1.1" 200 -
+2023-09-28 14:51:21,438 INFO flask_log Thread-3 (process_request_thread) : Info level log
+2023-09-28 14:51:21,440 WARNING flask_log Thread-3 (process_request_thread) : Warning level log
+2023-09-28 14:51:21,440 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [28/Sep/2023 14:51:21] "GET / HTTP/1.1" 200 -
+2023-09-28 15:51:01,327 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-28 15:51:01,327 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2023-09-28 15:51:01,329 INFO werkzeug MainThread :  * Restarting with stat
+2023-09-28 15:51:01,987 WARNING werkzeug MainThread :  * Debugger is active!
+2023-09-28 15:51:01,991 INFO werkzeug MainThread :  * Debugger PIN: 132-606-593
+2023-09-28 15:51:22,156 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-28 15:51:22,157 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2023-09-28 15:51:22,159 INFO werkzeug MainThread :  * Restarting with stat
+2023-09-28 15:51:22,867 WARNING werkzeug MainThread :  * Debugger is active!
+2023-09-28 15:51:22,869 INFO werkzeug MainThread :  * Debugger PIN: 132-606-593
+2023-09-28 15:51:27,904 INFO flask_log Thread-2 (process_request_thread) : Info level log
+2023-09-28 15:51:27,904 WARNING flask_log Thread-2 (process_request_thread) : Warning level log
+2023-09-28 15:51:27,904 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [28/Sep/2023 15:51:27] "GET / HTTP/1.1" 200 -
+2023-09-28 15:56:10,817 INFO flask_log Thread-4 (process_request_thread) : Info level log
+2023-09-28 15:56:10,817 WARNING flask_log Thread-4 (process_request_thread) : Warning level log
+2023-09-28 15:56:10,818 INFO werkzeug Thread-4 (process_request_thread) : 127.0.0.1 - - [28/Sep/2023 15:56:10] "GET / HTTP/1.1" 200 -
